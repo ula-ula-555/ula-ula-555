@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🌸🌺💮🏵️🌷🌼🌹🥀 Добро пожаловать! 🥀🌹🌼🌷🏵️💮🌺🌸
 
-<!--
-**ula-ula-555/ula-ula-555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Мой личный github
 
-Here are some ideas to get you started:
+## 👩💻 Обо мне
+### **ФИО:** Соболева Юлия Сергеевна  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💖 Творческая личность
+
+## 🌟 Интересные факты
+### 🃏 Увлечения
+- Нравится играть в покер
+- Люблю перечитывать книгу "Алиса в Стране Чудес"
+
+Это сайт сделан в рамках лабораторной работы #4 
+
+# СПАСИБО ЗА ВНИМАНИЕ!
+🥀🌹🌼🌷🏵️💮🌺🌸🥀🌹🌼🌷🏵️💮🌺🌸
+🥀🌹🌼🌷🏵️💮🌺🌸🥀🌹🌼🌷🏵️💮🌺🌸
